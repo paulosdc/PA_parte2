@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1626811509 source:c:\users\kyralduin\desktop\escultor3d\teste_escultor\main.cpp
+	<iostream>
+	"Sculptor.h"
+
+1626743411 source:c:\users\kyralduin\desktop\escultor3d\teste_escultor\src\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<math.h>
+	<cstdlib>
+	<iomanip>
+
+1626741048 c:\users\kyralduin\desktop\escultor3d\teste_escultor\include\sculptor.h
+	<string>
+
+1627066220 source:c:\users\kyralduin\desktop\escultor 3d\src\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstdlib>
+	<iomanip>
+
+1627060197 c:\users\kyralduin\desktop\escultor 3d\include\sculptor.h
+	<string>
+
+1627065685 source:c:\users\kyralduin\desktop\escultor 3d\main.cpp
+	<iostream>
+	"Sculptor.h"
+
+1628440344 source:c:\users\kyralduin\desktop\escultor 3d - parte 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	"Sculptor.h"
+	"Interpretador.h"
+
+1627060197 c:\users\kyralduin\desktop\escultor 3d - parte 2\include\sculptor.h
+	<string>
+
+1627066220 source:c:\users\kyralduin\desktop\escultor 3d - parte 2\src\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstdlib>
+	<iomanip>
+
+1628206218 source:c:\users\kyralduin\desktop\escultor 3d - parte 2\src\putvoxel.cpp
+	"PutVoxel.h"
+
+1628206218 c:\users\kyralduin\desktop\escultor 3d - parte 2\include\putvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628203060 c:\users\kyralduin\desktop\escultor 3d - parte 2\include\figurageometrica.h
+	"Sculptor.h"
+
+1628210363 source:c:\users\kyralduin\desktop\escultor 3d - parte 2\src\cutvoxel.cpp
+	"CutVoxel.h"
+
+1628210363 c:\users\kyralduin\desktop\escultor 3d - parte 2\include\cutvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628205890 source:c:\users\kyralduin\desktop\escultor 3d - parte 2\src\putbox.cpp
+	"PutBox.h"
+
+1628205629 c:\users\kyralduin\desktop\escultor 3d - parte 2\include\putbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628210363 source:c:\users\kyralduin\desktop\escultor 3d - parte 2\src\cutbox.cpp
+	"CutBox.h"
+
+1628210363 c:\users\kyralduin\desktop\escultor 3d - parte 2\include\cutbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628207121 source:c:\users\kyralduin\desktop\escultor 3d - parte 2\src\putsphere.cpp
+	"PutSphere.h"
+
+1628207121 c:\users\kyralduin\desktop\escultor 3d - parte 2\include\putsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628208367 source:c:\users\kyralduin\desktop\escultor 3d - parte 2\src\cutsphere.cpp
+	"CutSphere.h"
+
+1628208367 c:\users\kyralduin\desktop\escultor 3d - parte 2\include\cutsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628210033 source:c:\users\kyralduin\desktop\escultor 3d - parte 2\src\putellipsoid.cpp
+	"PutEllipsoid.h"
+	<cmath>
+
+1628210033 c:\users\kyralduin\desktop\escultor 3d - parte 2\include\putellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628210088 source:c:\users\kyralduin\desktop\escultor 3d - parte 2\src\cutellipsoid.cpp
+	"CutEllipsoid.h"
+	<cmath>
+
+1628210072 c:\users\kyralduin\desktop\escultor 3d - parte 2\include\cutellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628440344 source:c:\users\kyralduin\desktop\escultor 3d - parte 2\src\interpretador.cpp
+	"Interpretador.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<PutVoxel.h>
+	<CutVoxel.h>
+	<PutBox.h>
+	<CutBox.h>
+	<PutSphere.h>
+	<CutSphere.h>
+	<PutEllipsoid.h>
+	<CutEllipsoid.h>
+
+1628438045 c:\users\kyralduin\desktop\escultor 3d - parte 2\include\interpretador.h
+	<vector>
+	<string>
+	"FiguraGeometrica.h"
+
+1629165318 source:c:\users\paulo\desktop\parte2\escultor3d_pt2\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	"Sculptor.h"
+	"Interpretador.h"
+
+1629154909 c:\users\paulo\desktop\parte2\escultor3d_pt2\include\sculptor.h
+	<string>
+
+1629154909 c:\users\paulo\desktop\parte2\escultor3d_pt2\include\interpretador.h
+	<vector>
+	<string>
+	"FiguraGeometrica.h"
+
+1629154909 c:\users\paulo\desktop\parte2\escultor3d_pt2\include\figurageometrica.h
+	"Sculptor.h"
+
+1629154909 source:c:\users\paulo\desktop\parte2\escultor3d_pt2\src\cutbox.cpp
+	"CutBox.h"
+
+1629154909 c:\users\paulo\desktop\parte2\escultor3d_pt2\include\cutbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1629154909 source:c:\users\paulo\desktop\parte2\escultor3d_pt2\src\cutellipsoid.cpp
+	"CutEllipsoid.h"
+	<cmath>
+
+1629154909 c:\users\paulo\desktop\parte2\escultor3d_pt2\include\cutellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1629154909 source:c:\users\paulo\desktop\parte2\escultor3d_pt2\src\cutsphere.cpp
+	"CutSphere.h"
+
+1629154909 c:\users\paulo\desktop\parte2\escultor3d_pt2\include\cutsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1629154909 source:c:\users\paulo\desktop\parte2\escultor3d_pt2\src\cutvoxel.cpp
+	"CutVoxel.h"
+
+1629154909 c:\users\paulo\desktop\parte2\escultor3d_pt2\include\cutvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1629165307 source:c:\users\paulo\desktop\parte2\escultor3d_pt2\src\interpretador.cpp
+	"Interpretador.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<PutVoxel.h>
+	<PutBox.h>
+	<PutSphere.h>
+
+1629154909 c:\users\paulo\desktop\parte2\escultor3d_pt2\include\putvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1629154909 c:\users\paulo\desktop\parte2\escultor3d_pt2\include\putbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1629154909 c:\users\paulo\desktop\parte2\escultor3d_pt2\include\putsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1629154909 c:\users\paulo\desktop\parte2\escultor3d_pt2\include\putellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1629154909 source:c:\users\paulo\desktop\parte2\escultor3d_pt2\src\putbox.cpp
+	"PutBox.h"
+
+1629154909 source:c:\users\paulo\desktop\parte2\escultor3d_pt2\src\putellipsoid.cpp
+	"PutEllipsoid.h"
+	<cmath>
+
+1629154909 source:c:\users\paulo\desktop\parte2\escultor3d_pt2\src\putsphere.cpp
+	"PutSphere.h"
+
+1629160888 source:c:\users\paulo\desktop\parte2\escultor3d_pt2\src\putvoxel.cpp
+	"PutVoxel.h"
+
+1629154909 source:c:\users\paulo\desktop\parte2\escultor3d_pt2\src\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstdlib>
+	<iomanip>
+
